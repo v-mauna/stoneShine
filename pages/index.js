@@ -27,7 +27,7 @@ const Index = () => (
     box-sizing: border-box;
     animation-name: animate;
     animation-duration: 30s;
-    animation-iteration-count: 1; 
+    animation-iteration-count: 3; 
     animation-timing-function: ease-in-out;
   }
    @keyframes animate{

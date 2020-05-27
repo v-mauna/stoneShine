@@ -37,7 +37,7 @@ const Home = () => (
               margin-left: 10%;
               animation: right 2s infinite;
               text-transform: uppercase;
-              background: rgba(0,0,0,.3);
+              background: rgba(0,0,0,.7);
               padding:3em;
               
           }
