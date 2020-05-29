@@ -26,8 +26,10 @@ const Index = () => (
     margin-bottom: auto;
     box-sizing: border-box;
     animation-name: animate;
-    animation-duration: 30s;
-    animation-iteration-count: 3; 
+    animation-duration: 20s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite; 
+    animation-play-state: running;
     animation-timing-function: ease-in-out;
   }
    @keyframes animate{

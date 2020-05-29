@@ -5,7 +5,7 @@ import Head from 'next/head'
 const Layout = props => (
   <div>
     <Head>
-      <title>Ellen Killoran</title>
+      <title>StoneShine Ventures</title>
     </Head>
     <Navbar />
     <div className="container">

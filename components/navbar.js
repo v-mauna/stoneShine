@@ -63,16 +63,12 @@ const Navbar = () => {
             width: 0;
             height: 2px;
             background: rgba(0,0,0,.7);
-            transition: width .3s;
+            transition .3s;
         }
         a:hover{
           color: rgba(0,0,0,.7);
           transition: 3s ease;
         }
-          a:hover::after {
-            width: 100%;
-            transition: 3s ease;
-          }
           }
         `}
       </style>
